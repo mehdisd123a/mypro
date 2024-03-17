@@ -3,4 +3,4 @@ Image
 canvas
 os
 PIL
-reportlab.pdfgen
+reportlab
