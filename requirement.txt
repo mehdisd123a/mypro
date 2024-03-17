@@ -1,3 +1,4 @@
 streamlit
-tkinter
+Image
+canvas
 os
