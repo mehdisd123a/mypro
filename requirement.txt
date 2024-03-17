@@ -2,3 +2,5 @@ streamlit
 Image
 canvas
 os
+PIL
+reportlab.pdfgen
